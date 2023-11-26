@@ -1,0 +1,38 @@
+﻿<Page x:Class="Silly_clicker.settings"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Silly_clicker"
+      mc:Ignorable="d" 
+      Width="550"
+      Title="settings">
+
+    <StackPanel>
+
+        <StackPanel.Background>
+            <SolidColorBrush>Pink</SolidColorBrush>
+        </StackPanel.Background>
+        <TextBlock Margin="10 10 10 0" HorizontalAlignment="Center"><Bold>Settings</Bold></TextBlock>
+
+        <Grid Margin="100 10 100 10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.Background>
+                <SolidColorBrush>Lightpink</SolidColorBrush>
+            </Grid.Background>
+
+            <StackPanel Grid.Column="0">
+                
+                <TextBlock HorizontalAlignment="Center"><Bold>Reset Save</Bold></TextBlock>
+            </StackPanel>
+
+            <StackPanel Grid.Column="1">
+                <Button Click="resetbtnclick">Warning: Cannot be undone</Button>
+            </StackPanel>
+        </Grid>
+    </StackPanel>
+    
+</Page>

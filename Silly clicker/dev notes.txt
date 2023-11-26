@@ -1,0 +1,23 @@
+﻿Things to add
+
+Basics of the game
+-Upgrades
+	-Critical Click
+-Auto Clicks
+-Settings (Maby Res, Color theme?)
+
+
+New Windows
+-Stats Menu
+	-Clicks per second display
+	-Total ammount of sillys all time
+	-Money Spent
+	-Uptime?
+-Cosmetic Store
+	-Themes
+	-Silly Cosmetics
+	-Sound effects
+-Achievments
+	-Money
+	-Clicks per second
+	-Money Spent?

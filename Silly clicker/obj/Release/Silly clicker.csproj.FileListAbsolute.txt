@@ -1,0 +1,27 @@
+C:\Users\user\source\repos\Silly clicker\Silly clicker\bin\Release\Silly clicker.exe.config
+C:\Users\user\source\repos\Silly clicker\Silly clicker\bin\Release\Silly clicker.exe
+C:\Users\user\source\repos\Silly clicker\Silly clicker\bin\Release\Silly clicker.pdb
+C:\Users\user\source\repos\Silly clicker\Silly clicker\obj\Release\Silly clicker.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Silly clicker\Silly clicker\obj\Release\MainWindow.g.cs
+C:\Users\user\source\repos\Silly clicker\Silly clicker\obj\Release\App.g.cs
+C:\Users\user\source\repos\Silly clicker\Silly clicker\obj\Release\Silly clicker_MarkupCompile.cache
+C:\Users\user\source\repos\Silly clicker\Silly clicker\obj\Release\Silly clicker_MarkupCompile.lref
+C:\Users\user\source\repos\Silly clicker\Silly clicker\obj\Release\MainWindow.baml
+C:\Users\user\source\repos\Silly clicker\Silly clicker\obj\Release\Silly clicker.g.resources
+C:\Users\user\source\repos\Silly clicker\Silly clicker\obj\Release\Silly_clicker.Properties.Resources.resources
+C:\Users\user\source\repos\Silly clicker\Silly clicker\obj\Release\Silly clicker.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Silly clicker\Silly clicker\obj\Release\Silly clicker.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Silly clicker\Silly clicker\obj\Release\Silly clicker.exe
+C:\Users\user\source\repos\Silly clicker\Silly clicker\obj\Release\Silly clicker.pdb
+C:\Users\user\source\repos\Silly clicker\Silly clicker\obj\Release\Shop.g.cs
+C:\Users\user\source\repos\Silly clicker\Silly clicker\obj\Release\Silly clicker_Content.g.cs
+C:\Users\user\source\repos\Silly clicker\Silly clicker\obj\Release\Shop.baml
+C:\Users\user\source\repos\Silly clicker\Silly clicker\bin\Release\files\save.txt
+C:\Users\user\source\repos\Silly clicker\Silly clicker\bin\Release\files\resources\sillyshop.png
+C:\Users\user\source\repos\Silly clicker\Silly clicker\obj\Release\clicker.g.cs
+C:\Users\user\source\repos\Silly clicker\Silly clicker\obj\Release\clicker.baml
+C:\Users\user\source\repos\Silly clicker\Silly clicker\bin\Release\files\resources\silly.png
+C:\Users\user\source\repos\Silly clicker\Silly clicker\bin\Release\files\resources\sillymouthclosed.png
+C:\Users\user\source\repos\Silly clicker\Silly clicker\bin\Release\files\resources\sillymouthopen.png
+C:\Users\user\source\repos\Silly clicker\Silly clicker\obj\Release\settings.g.cs
+C:\Users\user\source\repos\Silly clicker\Silly clicker\obj\Release\settings.baml

@@ -1,0 +1,48 @@
+﻿<Window x:Class="Silly_clicker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Silly_clicker"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="600">
+
+    <!--Main Container-->
+    <Border Padding="10">
+        <Border.Background>
+            <!--Boarder Controls-->
+            <SolidColorBrush Color="LightPink"></SolidColorBrush>
+        </Border.Background>
+
+        <!--Main Stack Panel-->
+        <StackPanel>
+
+            <!--Stack Panel Controls-->
+            <StackPanel.Background>
+                <SolidColorBrush Color="AliceBlue"></SolidColorBrush>
+            </StackPanel.Background>
+
+            <!--Button Grid-->
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <Button Margin="10 10 0 0" Grid.Column="0" Click="clickerbtnclick">Main</Button>
+                <Button Margin="0 10 0 0" Grid.Column="1" Click="storebtnclick">Store</Button>
+                <Button Margin="0 10 10 0" Grid.Column="2" Click="settingsbtnclick">Settings</Button>
+            </Grid>
+
+            <!--Main Clicker Container-->
+            <Frame Height="390" Width="550" NavigationUIVisibility="Hidden" Margin="10 10 10 10" x:Name="Main">
+                <Frame.Background>
+                    <SolidColorBrush>Lightpink</SolidColorBrush>
+                </Frame.Background>
+            </Frame>
+            
+        </StackPanel>
+
+    </Border>
+</Window>

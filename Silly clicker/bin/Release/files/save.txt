@@ -1,0 +1,3 @@
+sillys:0
+level:1
+critchance:0.05
